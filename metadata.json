@@ -1,0 +1,7 @@
+
+{
+  "name": "dokkai-training2-app",
+  "description": "青空文庫の作品で読解力と記述力を鍛えるための中学生向けトレーニングアプリです。作品ごとに注釈・設問付きで構成され、学習者の進捗を記録します。",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
